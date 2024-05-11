@@ -1,0 +1,13 @@
+{
+    "name": "employee-tracker-jacker",
+    "version": "1.0.0",
+    "description": "A tracking app for large companies.",
+    "main": "index.js",
+    "author": "nickSprague",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "16.4.5",
+        "inquirer": "9.2.20",
+        "mysql2": "3.9.7"
+    }
+}
