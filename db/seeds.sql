@@ -9,7 +9,7 @@ VALUES  ('Offender-Technology'),
         ('Directors')
 
 INSERT INTO role(job_title, salary, department_id,) 
-VALUES  ('CTO', 120000, 7),
+VALUES  ('Chief Technology Officer', 120000, 7),
         ('Deputy Director/DSA Director', 90000, 7),
         ('Deputy Director/IT Director', 90000, 7),
         ('Deputy Director/PMO Director', 90000, 7),
