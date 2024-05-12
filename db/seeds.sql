@@ -28,3 +28,19 @@ VALUES  ('CTO', 120000, 7),
         ('OT Technician', 56000, 1),
         ('Facility Technology Lead', 66500, 2),
         ('FT Technician', 56000, 2)
+
+INSERT INTO employee(first_name, last_name, role_id)
+VALUES  ('S', 'S', 1),
+        ('N', 'S', 4),
+        ('T', 'H', 3),
+        ('E', 'B', 2),
+        ('B', 'C', 7),
+        ('K', 'A', 7),
+        ('M', 'O', 8),
+        ('B', 'B', 8),
+        ('N', 'E', 9),
+        ('S', 'K', 10),
+        ('A', 'C', 11),
+        ('M', 'V', 12),
+        ('D', 'T', 6),
+
