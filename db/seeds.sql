@@ -1,4 +1,8 @@
 USE employee-tracker-jacker;
+--================================
+-- below are tables for department name, role information, 
+-- and employee information.
+--================================
 INSERT INTO department(department_name) 
 VALUES  ('Offender-Technology'), 
         ('Facility-Technology'), 
